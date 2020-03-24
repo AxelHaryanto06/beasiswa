@@ -133,6 +133,11 @@ body {
 /*Status Beasiswa*/
 #nilai{
   text-align: center;
+  color: blue;
+}
+
+#beasiswa{
+  color: red;
 }
 
 /*Footer*/

@@ -63,6 +63,11 @@ body {
   background-color: #fff;
 }
 
+.nama-web{
+  font-size: 32pt;
+  color: #08d9d6;
+}
+
 /*foto*/
 .foto{
   padding-top: 40px;
@@ -106,6 +111,7 @@ body {
   padding-right: 15px;
   margin-left: 120px;
   margin-right: 120px;
+  margin-top: 400px;
 }
 
 .card-title {
@@ -6927,7 +6933,7 @@ button.bg-dark:focus {
 }
 
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 1rem !important;
 }
 
 .rounded-top {
